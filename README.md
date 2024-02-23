@@ -27,7 +27,7 @@ If you think this repository helped you, tag me on <a href="https://www.linkedin
 # Image Gallary
 
 ## Home page
-<img src="https://github.com/JayaG-gowda/Heritage/assets/119968609/524a8072-d49c-4ed8-94c8-85ba322ac6d4" height="200" width="350"> <p></p>
+<img src="https://github.com/JayaG-gowda/Heritage/assets/119968609/524a8072-d49c-4ed8-94c8-85ba322ac6d4" height="200" width="350"> <span>   </span>
 <img src="https://github.com/JayaG-gowda/Heritage/assets/119968609/e2300b57-c03c-4a60-b7fa-21a39112439e" height="200" width="350"> 
 <img src="https://github.com/JayaG-gowda/Heritage/assets/119968609/509b0fae-950e-4108-b0c0-d6ed3d59160e" height="200" width="350">
 ## Signup and Login page
