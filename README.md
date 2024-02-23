@@ -23,9 +23,7 @@ If you think this repository helped you, tag me on <a href="https://www.linkedin
 2. Go to chrome and search `localhost/phpmyadmin`
 3. Then create a database with name `heritage`
 4. Go to import section and upload `Heritage_DB.sql` file <br> <br>
-   
-![image](https://github.com/JayaG-gowda/Heritage/assets/119968609/e2300b57-c03c-4a60-b7fa-21a39112439e)
 
-<img src="https://github.com/JayaG-gowda/Heritage/assets/119968609/e2300b57-c03c-4a60-b7fa-21a39112439e" height="200" width="250">
+<img src="https://github.com/JayaG-gowda/Heritage/assets/119968609/e2300b57-c03c-4a60-b7fa-21a39112439e" height="200" width="350">
 
 
