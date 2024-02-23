@@ -2,6 +2,27 @@
 
 If you think this repository helped you, tag me on <a href="https://www.linkedin.com/in/jayanna-g-3aaa8a259">LinkedIn</a> and help it reach more people in the community. <br><br>
 
+<p align="center">
+  <a href="https://www.python.org">
+    <img src="http://ForTheBadge.com/images/badges/made-with-python.svg" width ="250">
+  </a>
+  <a href="https://t.me/CodeXBotz">
+    <img src="https://github.com/CodeXBotz/PyrogramGenStr/blob/main/resources/madebycodex-badge.svg" width="250">
+  </a><br>
+  <a href="https://t.me/CodeXBotz">
+    &nbsp;<img src="https://img.shields.io/badge/Code%20%F0%9D%95%8F%20Botz-Channel-blue?style=flat-square&logo=telegram" width="130" height="18">&nbsp;
+  </a>
+  <a href="https://www.linkedin.com/in/jayanna-g-3aaa8a259">
+    &nbsp;<img src="https://img.shields.io/badge/Jayanna%20%G-blue?style=flat-square&logo=linkedin" width="130" height="18">&nbsp;
+  </a>
+  <br>
+  <a href="https://github.com/JayaG-gowda/Heritage/stargazers">
+    <img src="https://img.shields.io/github/stars/JayaG-gowda/Heritage?style=social">
+  </a>
+  <a href="https://github.com/JayaG-gowda/Heritage/fork">
+    <img src="https://img.shields.io/github/forks/JayaG-gowda/Heritage?label=Fork&style=social">
+  </a>  
+</p>
 
 ![image](https://github.com/JayaG-gowda/Heritage/assets/119968609/524a8072-d49c-4ed8-94c8-85ba322ac6d4)
 <h5 align="center">Home page(Hoysaleswara Temple Halebeedu)</h5>
