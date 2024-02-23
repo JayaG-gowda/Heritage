@@ -13,7 +13,7 @@ If you think this repository helped you, tag me on <a href="https://www.linkedin
     &nbsp;<img src="https://img.shields.io/badge/Code%20%F0%9D%95%8F%20Botz-Channel-blue?style=flat-square&logo=telegram" width="130" height="18">&nbsp;
   </a>
   <a href="https://www.linkedin.com/in/jayanna-g-3aaa8a259">
-    &nbsp;<img src="https://img.shields.io/badge/Jayanna%20%G-blue?style=flat-square&logo=linkedin" width="130" height="18">&nbsp;
+    &nbsp;<img src="https://img.shields.io/badge/Jayanna%20G-blue?style=flat-square&logo=linkedin" width="130" height="18">&nbsp;
   </a>
   <br>
   <a href="https://github.com/JayaG-gowda/Heritage/stargazers">
