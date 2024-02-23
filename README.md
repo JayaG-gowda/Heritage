@@ -10,7 +10,7 @@ If you think this repository helped you, tag me on <a href="https://www.linkedin
 ![image](https://github.com/JayaG-gowda/Heritage/assets/119968609/263a9304-bdff-49fa-8f7e-48547c681dd5)
 
 ## Source code!
-1. Heritage is the mini project based on the<br>
+1. Heritage is developed by using <br>
    I. HTML5<br>
    II. CSS3<br>
    III. PHP<br>
@@ -38,8 +38,13 @@ If you think this repository helped you, tag me on <a href="https://www.linkedin
 <img src="https://github.com/JayaG-gowda/Heritage/assets/119968609/509b0fae-950e-4108-b0c0-d6ed3d59160e" height="200" width="350" title="About page"> 
 <img src="https://github.com/JayaG-gowda/Heritage/assets/119968609/1b67faf2-a8a7-4413-bc39-9c08c5121228" height="200" width="350" title="Events page"> 
 
-
-
+# Credits
+Special thanks to our Dev's
+1. Nagaraj - <a href="">Github</a>, frontend designer
+2. Murthy - <a href="">Github</a>, frontend designer
+3. Channakeshava - <a href="">Github</a>, backend helper
+4. Nandan - <a href="">Github</a>, backend helper
+5. Jayanna G - <a href="https://github.com/JayaG-gowda">Github</a>, both frontend and backend Dev
 
 
 
