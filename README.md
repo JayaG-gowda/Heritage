@@ -46,5 +46,13 @@ Special thanks to our Dev's
 4. Nandan - <a href="">Github</a>, backend helper
 5. Jayanna G - <a href="https://github.com/JayaG-gowda">Github</a>, both frontend and backend Dev
 
+## Licence
+
+<a href="https://github.com/JayaG-gowda/Heritage/blob/main/LICENSE"><img src="https://camo.githubusercontent.com/b7114f43bc3473adbfc25e0939e754b96456520685aeb58da630537dd08403f9/68747470733a2f2f7777772e676e752e6f72672f67726170686963732f67706c76332d3132377835312e706e67"><a/>
+
+<a href="https://github.com/JayaG-gowda/Heritage">Heritage</a> is Free Project: You can use, study share and improve it at your will. Specifically you can redistribute and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
+
+<h3>Star this Repo if you Liked it ⭐⭐⭐</h3>
+
 
 
