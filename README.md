@@ -24,13 +24,21 @@ If you think this repository helped you, tag me on <a href="https://www.linkedin
 3. Then create a database with name `heritage`
 4. Go to import section and upload `Heritage_DB.sql` file <br> <br>
 
-<img src="https://github.com/JayaG-gowda/Heritage/assets/119968609/e2300b57-c03c-4a60-b7fa-21a39112439e" height="200" width="350"> 
-<img src="https://github.com/JayaG-gowda/Heritage/assets/119968609/509b0fae-950e-4108-b0c0-d6ed3d59160e" height="200" width="350"> 
-<img src="https://github.com/JayaG-gowda/Heritage/assets/119968609/e2300b57-c03c-4a60-b7fa-21a39112439e" height="200" width="350"> 
-<img src="https://github.com/JayaG-gowda/Heritage/assets/119968609/e2300b57-c03c-4a60-b7fa-21a39112439e" height="200" width="350"> 
+## Image Gallary
+
+# Home page
+<img src="https://github.com/JayaG-gowda/Heritage/assets/119968609/524a8072-d49c-4ed8-94c8-85ba322ac6d4" height="200" width="350">  &nbsp
+<img src="https://github.com/JayaG-gowda/Heritage/assets/119968609/e2300b57-c03c-4a60-b7fa-21a39112439e" height="200" width="350">  &nbsp
+<img src="https://github.com/JayaG-gowda/Heritage/assets/119968609/509b0fae-950e-4108-b0c0-d6ed3d59160e" height="200" width="350">
+# Signup and Login page
+<img src="https://github.com/JayaG-gowda/Heritage/assets/119968609/17164fc5-318e-4923-9e26-8e8836e4ec72" height="200" width="350" title="Signup page">  &nbsp
+<img src="https://github.com/JayaG-gowda/Heritage/assets/119968609/fa39eac6-4c6e-4f9a-a463-080192a85784" height="200" width="350" title="LOgin page"> 
+
 <img src="https://github.com/JayaG-gowda/Heritage/assets/119968609/e2300b57-c03c-4a60-b7fa-21a39112439e" height="200" width="350"> 
 
-![image](https://github.com/JayaG-gowda/Heritage/assets/119968609/509b0fae-950e-4108-b0c0-d6ed3d59160e)
+![image](https://github.com/JayaG-gowda/Heritage/assets/119968609/17164fc5-318e-4923-9e26-8e8836e4ec72)
+![image](https://github.com/JayaG-gowda/Heritage/assets/119968609/fa39eac6-4c6e-4f9a-a463-080192a85784)
+
 
 
 
