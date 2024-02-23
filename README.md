@@ -10,13 +10,13 @@ If you think this repository helped you, tag me on <a href="https://www.linkedin
 ![image](https://github.com/JayaG-gowda/Heritage/assets/119968609/263a9304-bdff-49fa-8f7e-48547c681dd5)
 
 ## Source code!
-1. Heritage is the mini project based on the
-   I. HTML5
-   II. CSS3
-   III. PHP
-   IV. JavaScript
-1. <a href="https://github.com/Jayanth14072003/JiocinemaDownloader/archive/refs/heads/main.zip">Click here</a> to download the source code of heritage.
-2. Set folder name as `heritage` and place that folder to the `C:\xampp\htdocs\heritage`, otherwise it will not execute!.
+1. Heritage is the mini project based on the<br>
+   I. HTML5<br>
+   II. CSS3<br>
+   III. PHP<b>
+   IV. JavaScript<br>
+1. <a href="https://github.com/JayaG-gowda/Heritage/archive/refs/heads/main.zip">Click here</a> to download the source code of heritage.
+2. Set folder name as `heritage` and place that folder to `C:\xampp\htdocs\heritage`, otherwise it will not execute!.
 
 ## How to create database
 1. Turn on Apache & MySql on XAMPP control panel.
