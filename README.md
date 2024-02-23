@@ -24,6 +24,13 @@ If you think this repository helped you, tag me on <a href="https://www.linkedin
 3. Then create a database with name `heritage`
 4. Go to import section and upload `Heritage_DB.sql` file <br> <br>
 
-<img src="https://github.com/JayaG-gowda/Heritage/assets/119968609/e2300b57-c03c-4a60-b7fa-21a39112439e" height="200" width="350">
+<img src="https://github.com/JayaG-gowda/Heritage/assets/119968609/e2300b57-c03c-4a60-b7fa-21a39112439e" height="200" width="350"> 
+<img src="https://github.com/JayaG-gowda/Heritage/assets/119968609/509b0fae-950e-4108-b0c0-d6ed3d59160e" height="200" width="350"> 
+<img src="https://github.com/JayaG-gowda/Heritage/assets/119968609/e2300b57-c03c-4a60-b7fa-21a39112439e" height="200" width="350"> 
+<img src="https://github.com/JayaG-gowda/Heritage/assets/119968609/e2300b57-c03c-4a60-b7fa-21a39112439e" height="200" width="350"> 
+<img src="https://github.com/JayaG-gowda/Heritage/assets/119968609/e2300b57-c03c-4a60-b7fa-21a39112439e" height="200" width="350"> 
+
+![image](https://github.com/JayaG-gowda/Heritage/assets/119968609/509b0fae-950e-4108-b0c0-d6ed3d59160e)
+
 
 
