@@ -3,12 +3,11 @@
 If you think this repository helped you, tag me on <a href="https://www.linkedin.com/in/jayanna-g-3aaa8a259">LinkedIn</a> and help it reach more people in the community. <br><br>
 
 <p align="center">
-  <a href="https://www.python.org">
-    <a href=""><img src="https://img.shields.io/badge/MADE%20WITH-HTML5-blue?style=flat-square" width ="250">
-    <a href=""><img src="https://img.shields.io/badge/CSS3-blue?style=flat-square" width ="80">
+    <a href="https://html.com/"><img src="https://img.shields.io/badge/MADE%20WITH-HTML5-blue?style=flat-square" width ="250"></a>
+    <a href="https://css3.com/"><img src="https://img.shields.io/badge/CSS3-blue?style=flat-square" width ="80"></a>
     <a href="https://www.php.net/"><img src="https://img.shields.io/badge/PHP-blue?style=flat-square" width ="65"></a>
-    <a href=""><img src="https://img.shields.io/badge/JS-blue?style=flat-square" width ="48">
-  </a><br>
+    <a href="https://www.javascript.com/"><img src="https://img.shields.io/badge/JS-blue?style=flat-square" width ="48"></a><br>
+  
   <a href="https://github.com/JayaG-gowda">
     &nbsp;<img src="https://img.shields.io/badge/Jayanna-G-blue?style=flat-square&logo=github" width="100" height="20">&nbsp;
   </a>
