@@ -5,7 +5,6 @@ session_start();
 include 'db.php';
 
 // here we check the users is logged in or not
-
 if (!isset($_SESSION['userids'])) {
     header('Location: logout.php');
 }
