@@ -1,0 +1,55 @@
+.fa-facebook {
+    padding-left: 13px;
+    padding-right: 12px;
+}
+
+.fa-instagram {
+    padding-left: 11px;
+    padding-right: 11px;
+}
+
+.fa-linkedin {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.fa-twitter {
+    padding-left: 10px;
+    padding-right: 9px;
+}
+
+.fa-twitter,
+.fa-facebook,
+.fa-linkedin,
+.fa-instagram {
+    color: white;
+    border: 1px solid rgb(206, 206, 206);
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-decoration: none;
+    border-top-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    box-shadow: 1px 2px 4px black;
+    margin-left: 5px;
+    transition: 1s;
+    margin-top: 0px;
+    margin-bottom: opx;
+}
+
+.div-4 {
+    text-align: center;
+    height: 160px;
+}
+
+.fa-facebook:hover,
+.fa-linkedin:hover,
+.fa-twitter:hover {
+    border: 1px solid rgb(6, 6, 6);
+    box-shadow: 1px 2px 4px rgb(255, 255, 255);
+    color: rgb(24, 150, 240); 
+}
+.fa-instagram:hover{
+    border: 1px solid rgb(6, 6, 6);
+    box-shadow: 1px 2px 4px rgb(255, 255, 255);
+    color: rgb(240, 71, 24); 
+}
