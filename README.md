@@ -6,8 +6,9 @@ If you think this repository helped you, tag me on <a href="https://www.linkedin
   <a href="https://www.python.org">
     <img src="https://forthebadge.com?primaryBGColor=%234a4a4a&primaryTextColor=%23FFFFFF&secondaryBGColor=%234a90e2&secondaryTextColor=%23FFFFFF&tertiaryBGColor=%232674A4&tertiaryTextColor=%23FFFFFF&primaryLabel=MADE+WITH&secondaryLabel=PHP&tertiaryLabel=&panels=2#/generator" width ="250">
   </a>
+  [![forthebadge](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNjAiIGhlaWdodD0iMzUiIHZpZXdCb3g9IjAgMCAxNjAgMzUiPjxyZWN0IHdpZHRoPSIxMDYuNjYyNDk4NDc0MTIxMSIgaGVpZ2h0PSIzNSIgZmlsbD0iIzRhNGE0YSIvPjxyZWN0IHg9IjEwNi42NjI0OTg0NzQxMjExIiB3aWR0aD0iNTMuMzM3NTAxNTI1ODc4OTA2IiBoZWlnaHQ9IjM1IiBmaWxsPSIjNGE5MGUyIi8+PHRleHQgeD0iNTMuMzMxMjQ5MjM3MDYwNTUiIHk9IjE3LjUiIGZvbnQtc2l6ZT0iMTIiIGZvbnQtZmFtaWx5PSInUm9ib3RvJywgc2Fucy1zZXJpZiIgZmlsbD0iI0ZGRkZGRiIgdGV4dC1hbmNob3I9Im1pZGRsZSIgYWxpZ25tZW50LWJhc2VsaW5lPSJtaWRkbGUiIGxldHRlci1zcGFjaW5nPSIyIj5NQURFIFdJVEg8L3RleHQ+PHRleHQgeD0iMTMzLjMzMTI0OTIzNzA2MDU1IiB5PSIxNy41IiBmb250LXNpemU9IjEyIiBmb250LWZhbWlseT0iJ01vbnRzZXJyYXQnLCBzYW5zLXNlcmlmIiBmaWxsPSIjRkZGRkZGIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LXdlaWdodD0iOTAwIiBhbGlnbm1lbnQtYmFzZWxpbmU9Im1pZGRsZSIgbGV0dGVyLXNwYWNpbmc9IjIiPlBIUDwvdGV4dD48L3N2Zz4=)](https://forthebadge.com)
   <a href="https://t.me/CodeXBotz">
-    <img src="https://github.com/CodeXBotz/PyrogramGenStr/blob/main/resources/madebyjayannag-badge.svg" width="250">
+    <img src="https://github.com/CodeXBotz/PyrogramGenStr/blob/main/resources/madebycodex-badge.svg" width="250">
   </a><br>
   <a href="https://github.com/JayaG-gowda">
     &nbsp;<img src="https://img.shields.io/badge/Jayanna-G-blue?style=flat-square&logo=github" width="100" height="20">&nbsp;
@@ -74,6 +75,3 @@ Special thanks to our Dev's
 <a href="https://github.com/JayaG-gowda/Heritage">Heritage</a> is Free Project: You can use, study share and improve it at your will. Specifically you can redistribute and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
 
 <h3>Star this Repo if you Liked it ⭐⭐⭐</h3>
-
-
-
