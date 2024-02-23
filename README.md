@@ -7,7 +7,7 @@ If you think this repository helped you, tag me on <a href="https://www.linkedin
     <img src="http://ForTheBadge.com/images/badges/made-with-python.svg" width ="250">
   </a>
   <a href="https://t.me/CodeXBotz">
-    <img src="https://github.com/CodeXBotz/PyrogramGenStr/blob/main/resources/madebycodex-badge.svg" width="250">
+    <img src="https://github.com/CodeXBotz/PyrogramGenStr/blob/main/resources/madebyjayannag-badge.svg" width="250">
   </a><br>
   <a href="https://github.com/JayaG-gowda">
     &nbsp;<img src="https://img.shields.io/badge/Jayanna-G-blue?style=flat-square&logo=github" width="100" height="20">&nbsp;
