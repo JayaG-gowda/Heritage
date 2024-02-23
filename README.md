@@ -6,8 +6,8 @@ If you think this repository helped you, tag me on <a href="https://www.linkedin
   <a href="https://www.python.org">
     <img src="https://img.shields.io/badge/MADE%20WITH-HTML5-blue?style=flat-square" width ="250">
     <img src="https://img.shields.io/badge/CSS3-blue?style=flat-square" width ="80">
-    <img src="https://img.shields.io/badge/PHP-blue?style=flat-square" width ="65">
-    <img src="https://img.shields.io/badge/JS-blue?style=flat-square" width ="50">
+    <a href="https://www.php.net/"><img src="https://img.shields.io/badge/PHP-blue?style=flat-square" width ="65"></a>
+    <img src="https://img.shields.io/badge/JS-blue?style=flat-square" width ="47">
   </a>
   <a href="https://t.me/CodeXBotz">
     <img src="https://github.com/CodeXBotz/PyrogramGenStr/blob/main/resources/madebycodex-badge.svg" width="250">
