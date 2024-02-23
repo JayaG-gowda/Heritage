@@ -9,7 +9,7 @@ If you think this repository helped you, tag me on <a href="https://www.linkedin
 
 ![image](https://github.com/JayaG-gowda/Heritage/assets/119968609/263a9304-bdff-49fa-8f7e-48547c681dd5)
 
-#How to create database
+## How to create database
 1. Turn on Apache & MySql on XAMPP control panel.
 2. Go to chrome and search `localhost/phpmyadmin`
 3. Then create a database with name `heritage`
