@@ -13,7 +13,7 @@ If you think this repository helped you, tag me on <a href="https://www.linkedin
 1. Heritage is the mini project based on the<br>
    I. HTML5<br>
    II. CSS3<br>
-   III. PHP<b>
+   III. PHP<br>
    IV. JavaScript<br>
 1. <a href="https://github.com/JayaG-gowda/Heritage/archive/refs/heads/main.zip">Click here</a> to download the source code of heritage.
 2. Set folder name as `heritage` and place that folder to `C:\xampp\htdocs\heritage`, otherwise it will not execute!.
