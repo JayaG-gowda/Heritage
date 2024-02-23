@@ -4,9 +4,11 @@ If you think this repository helped you, tag me on <a href="https://www.linkedin
 
 <p align="center">
   <a href="https://www.python.org">
-    <img src="https://forthebadge.com?primaryBGColor=%234a4a4a&primaryTextColor=%23FFFFFF&secondaryBGColor=%234a90e2&secondaryTextColor=%23FFFFFF&tertiaryBGColor=%232674A4&tertiaryTextColor=%23FFFFFF&primaryLabel=MADE+WITH&secondaryLabel=PHP&tertiaryLabel=&panels=2#/generator" width ="250">
+    <img src="https://img.shields.io/badge/MADE%20WITH-HTML5-blue?style=flat-square" width ="250">
+    <img src="https://img.shields.io/badge/CSS3-blue?style=flat-square" width ="250">
+    <img src="https://img.shields.io/badge/PHP-blue?style=flat-square" width ="250">
+    <img src="https://img.shields.io/badge/JS-blue?style=flat-square" width ="250">
   </a>
-  [![forthebadge](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNjAiIGhlaWdodD0iMzUiIHZpZXdCb3g9IjAgMCAxNjAgMzUiPjxyZWN0IHdpZHRoPSIxMDYuNjYyNDk4NDc0MTIxMSIgaGVpZ2h0PSIzNSIgZmlsbD0iIzRhNGE0YSIvPjxyZWN0IHg9IjEwNi42NjI0OTg0NzQxMjExIiB3aWR0aD0iNTMuMzM3NTAxNTI1ODc4OTA2IiBoZWlnaHQ9IjM1IiBmaWxsPSIjNGE5MGUyIi8+PHRleHQgeD0iNTMuMzMxMjQ5MjM3MDYwNTUiIHk9IjE3LjUiIGZvbnQtc2l6ZT0iMTIiIGZvbnQtZmFtaWx5PSInUm9ib3RvJywgc2Fucy1zZXJpZiIgZmlsbD0iI0ZGRkZGRiIgdGV4dC1hbmNob3I9Im1pZGRsZSIgYWxpZ25tZW50LWJhc2VsaW5lPSJtaWRkbGUiIGxldHRlci1zcGFjaW5nPSIyIj5NQURFIFdJVEg8L3RleHQ+PHRleHQgeD0iMTMzLjMzMTI0OTIzNzA2MDU1IiB5PSIxNy41IiBmb250LXNpemU9IjEyIiBmb250LWZhbWlseT0iJ01vbnRzZXJyYXQnLCBzYW5zLXNlcmlmIiBmaWxsPSIjRkZGRkZGIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LXdlaWdodD0iOTAwIiBhbGlnbm1lbnQtYmFzZWxpbmU9Im1pZGRsZSIgbGV0dGVyLXNwYWNpbmc9IjIiPlBIUDwvdGV4dD48L3N2Zz4=)](https://forthebadge.com)
   <a href="https://t.me/CodeXBotz">
     <img src="https://github.com/CodeXBotz/PyrogramGenStr/blob/main/resources/madebycodex-badge.svg" width="250">
   </a><br>
