@@ -1,6 +1,6 @@
 <h1 align="center">Heritage</h1>
 
-If you think this repository helped you, tag me on <a href="https://www.linkedin.com/in/jayanna-g-3aaa8a259">LinkedIn</a> and help it reach more people in the community.
+If you think this repository helped you, tag me on <a href="https://www.linkedin.com/in/jayanna-g-3aaa8a259">LinkedIn</a> and help it reach more people in the community. <br><br>
 
 
 ![image](https://github.com/JayaG-gowda/Heritage/assets/119968609/524a8072-d49c-4ed8-94c8-85ba322ac6d4)
@@ -26,15 +26,15 @@ If you think this repository helped you, tag me on <a href="https://www.linkedin
 
 # Image Gallary
 
-## Home page
+## Home Page
 <img src="https://github.com/JayaG-gowda/Heritage/assets/119968609/524a8072-d49c-4ed8-94c8-85ba322ac6d4" height="200" width="350" title="Home page"> <span>   </span>
 <img src="https://github.com/JayaG-gowda/Heritage/assets/119968609/e2300b57-c03c-4a60-b7fa-21a39112439e" height="200" width="350" title="Home page"> 
 
-## Signup and Login page
+## Signup and Login Page
 <img src="https://github.com/JayaG-gowda/Heritage/assets/119968609/17164fc5-318e-4923-9e26-8e8836e4ec72" height="200" width="350" title="Signup page">
 <img src="https://github.com/JayaG-gowda/Heritage/assets/119968609/fa39eac6-4c6e-4f9a-a463-080192a85784" height="200" width="350" title="Login page"> 
 
-##
+## About and Events Page
 <img src="https://github.com/JayaG-gowda/Heritage/assets/119968609/509b0fae-950e-4108-b0c0-d6ed3d59160e" height="200" width="350" title="About page"> 
 <img src="https://github.com/JayaG-gowda/Heritage/assets/119968609/1b67faf2-a8a7-4413-bc39-9c08c5121228" height="200" width="350" title="Events page"> 
 
