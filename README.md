@@ -4,7 +4,7 @@ If you think this repository helped you, tag me on <a href="https://www.linkedin
 
 <p align="center">
   <a href="https://www.python.org">
-    <img src="http://ForTheBadge.com/images/badges/made-with-python.svg" width ="250">
+    <img src="https://forthebadge.com?primaryBGColor=%234a4a4a&primaryTextColor=%23FFFFFF&secondaryBGColor=%234a90e2&secondaryTextColor=%23FFFFFF&tertiaryBGColor=%232674A4&tertiaryTextColor=%23FFFFFF&primaryLabel=MADE+WITH&secondaryLabel=PHP&tertiaryLabel=&panels=2#/generator" width ="250">
   </a>
   <a href="https://t.me/CodeXBotz">
     <img src="https://github.com/CodeXBotz/PyrogramGenStr/blob/main/resources/madebyjayannag-badge.svg" width="250">
