@@ -40,11 +40,11 @@ If you think this repository helped you, tag me on <a href="https://www.linkedin
 
 # Credits
 Special thanks to our Dev's
-1. Nagaraj - <a href="">Github</a>, frontend designer
-2. Murthy - <a href="">Github</a>, frontend designer
-3. Channakeshava - <a href="">Github</a>, backend helper
-4. Nandan - <a href="">Github</a>, backend helper
-5. Jayanna G - <a href="https://github.com/JayaG-gowda">Github</a>, both frontend and backend Dev
+1. Jayanna G - <a href="https://github.com/JayaG-gowda">Github</a>, both frontend and backend Dev
+2. Nagaraj - <a href="">Github</a>, frontend designer
+3. Murthy - <a href="">Github</a>, frontend designer
+4. Channakeshava - <a href="">Github</a>, backend helper
+5. Nandan - <a href="">Github</a>, backend helper
 
 ## Licence
 
