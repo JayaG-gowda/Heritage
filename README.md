@@ -64,7 +64,7 @@ Special thanks to our Dev's
 2. Nagaraj - <a href="https://github.com/Nagaraj-5">Github</a>, frontend designer
 3. Murthy - <a href="https://github.com/Murthy29">Github</a>, frontend designer
 4. Channakeshava - <a href="https://github.com/Benaka1604">Github</a>, backend helper
-5. Nandan - <a href="">Github</a>, backend helper
+5. Nandan - <a href="https://github.com/Nandan524">Github</a>, backend helper
 
 ## Licence
 
